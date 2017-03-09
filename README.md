@@ -12,7 +12,13 @@ UGENT_USERNAME=namehere UGENT_PASSOWRD=hunter2 UGENT_GROUP=41 node main.js
 
 This wil create a a file `output/calendar-$USERNAME.ics`.
 
-You can also put the variables in a `.env` file.
+You can also put the variables in a `.env` file:
+
+```
+UGENT_USERNAME=namehere
+UGENT_PASSOWRD=hunter2
+UGENT_GROUP=41
+```
 
 ## Requirements
 
@@ -24,6 +30,6 @@ This project uses Phantom to go log in to the Centauro website and navigate to t
 
 ## Disclaimer
 
-* The code was quickly thrown together. It's ugly and doesn't handel any edge case.
+* The code was quickly thrown together. It's ugly and doesn't handle any edge cases.
 * The configuration requires you to add your UGent username and password, which it will use to log in to Centauro. Run this locally to keep them safe.
 

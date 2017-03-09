@@ -5,6 +5,7 @@ const url = require('url');
 const qs = require('querystring');
 const ical = require('ical-generator');
 const cal = ical();
+const fs = require('fs');
 
 const parseEvent = require('./parseEvent');
 
@@ -106,6 +107,7 @@ const wait = (time) => new Promise(resolve => {
     const events = calendarJson.map(x => parseEvent(x));
 
     cal.name('UGent - ' + username);
+    cal.timezone('Europe/Brussels');
 
     const icalEvents = events.map(event => {
       // if this event is only applicable for some groups and we aren't in them, skip this event
@@ -143,6 +145,8 @@ const wait = (time) => new Promise(resolve => {
 
       result.description = description;
 
+      result.timezone = 'Europe/Brussels';
+
       return result;
     }).filter(x => x);
 
@@ -151,6 +155,10 @@ const wait = (time) => new Promise(resolve => {
     console.log(JSON.stringify(events));
 
     console.log(cal.toString());
+
+    if (!fs.existsSync('output')){
+      fs.mkdirSync('output');
+    }
 
     cal.saveSync('output/calendar-' + username + '.ics');
 
