@@ -27,7 +27,7 @@ echo " >> Commit"
 git commit -m "Update calendar for $UGENT_USERNAME"
 
 echo " >> Push"
-git push orgin gh-pages
+git push origin gh-pages
 
 echo " >> Back to master"
 git checkout master
