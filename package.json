@@ -1,0 +1,17 @@
+{
+  "name": "centauro-export",
+  "version": "1.0.0",
+  "description": "Export calendar from UGent Centauro into ICS",
+  "main": "main.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "ical-generator": "^0.2.9",
+    "phantom": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
