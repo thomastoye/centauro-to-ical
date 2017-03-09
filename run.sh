@@ -1,31 +1,37 @@
 #!/bin/bash
 
-USERNAME=trtoye
+UGENT_USERNAME=trtoye
 
 # Run script
 node main.js
 
-# Stash calendar
+# Save calendar contents into variable
+ICS_CONTENTS=`cat calendar-${UGENT_USERNAME}.ics`
+
+# Remove existing calendar file on this branch
+rm calendar-${UGENT_USERNAME}.ics
+
+# Stash changed files
 git stash
 
 # Switch to gh-pages branch
 git checkout gh-pages
 
-# Remove existing calendar file
-rm calendar-${USERNAME}.ics
-
-# Pop file back
-git stash apply
+# Update calendar
+echo $ICS_CONTENTS > calendar-${UGENT_USERNAME}.ics
 
 # Add file
-git add calendar-${USERNAME}.ics
+git add calendar-${UGENT_USERNAME}.ics
 
 # Commit
-git commit -m "Update calendar for $USERNAME"
+git commit -m "Update calendar for $UGENT_USERNAME"
 
 # Push
 git push orgin gh-pages
 
 # Back to master
 git checkout master
+
+# Get stash back
+git stash apply
 
