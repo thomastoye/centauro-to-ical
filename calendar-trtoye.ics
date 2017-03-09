@@ -1,1 +1,688 @@
-BEGIN:VCALENDAR VERSION:2.0 PRODID:-//sebbo.net//ical-generator//EN NAME:UGent - trtoye X-WR-CALNAME:UGent - trtoye TIMEZONE-ID:Europe/Brussels X-WR-TIMEZONE:Europe/Brussels BEGIN:VEVENT UID:z4ch@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170228T124500 DTEND;TZID=Europe/Brussels:20170228T144500 SUMMARY:Computersystemen  LOCATION:Hoorcollege DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 - Gebouw A\, GKG.A.2.01\nLocatie: Hoorcollege\nCursuscode E630083\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:yt3c@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170307T124500 DTEND;TZID=Europe/Brussels:20170307T144500 SUMMARY:Computersystemen  LOCATION:Hoorcollege DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 - Gebouw A\, GKG.A.2.01\nLocatie: Hoorcollege\nCursuscode E630083\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:suih@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170314T124500 DTEND;TZID=Europe/Brussels:20170314T144500 SUMMARY:Computersystemen  LOCATION:Hoorcollege DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 - Gebouw A\, GKG.A.2.01\nLocatie: Hoorcollege\nCursuscode E630083\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:dtiv@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170321T124500 DTEND;TZID=Europe/Brussels:20170321T144500 SUMMARY:Computersystemen  LOCATION:Hoorcollege DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 - Gebouw A\, GKG.A.2.01\nLocatie: Hoorcollege\nCursuscode E630083\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:56df@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170328T104500 DTEND;TZID=Europe/Brussels:20170328T124500 SUMMARY:Computersystemen  LOCATION:Hoorcollege DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 - Gebouw A\, GKG.A.1.01\nLocatie: Hoorcollege\nCursuscode E630083\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:wnmp@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170328T134500 DTEND;TZID=Europe/Brussels:20170328T144500 SUMMARY:Computersystemen  LOCATION:Labo DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 - Gebouw A\, GKG.A.1.01\nLocatie: Labo\nCursuscode E630083\nGroepen: 34\, 4 1 END:VEVENT BEGIN:VEVENT UID:fkmn@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170301T083000 DTEND;TZID=Europe/Brussels:20170301T103000 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:i7j1@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170301T104500 DTEND;TZID=Europe/Brussels:20170301T114500 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:79sq@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170301T124500 DTEND;TZID=Europe/Brussels:20170301T144500 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:m6uf@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170308T083000 DTEND;TZID=Europe/Brussels:20170308T103000 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:qd0z@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170308T104500 DTEND;TZID=Europe/Brussels:20170308T114500 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:6ji6@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170308T124500 DTEND;TZID=Europe/Brussels:20170308T144500 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:6n04@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170315T083000 DTEND;TZID=Europe/Brussels:20170315T103000 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:1ohf@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170315T104500 DTEND;TZID=Europe/Brussels:20170315T114500 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:eodk@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170315T124500 DTEND;TZID=Europe/Brussels:20170315T144500 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:gja9@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170322T083000 DTEND;TZID=Europe/Brussels:20170322T103000 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:p9cc@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170322T104500 DTEND;TZID=Europe/Brussels:20170322T114500 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:3lqw@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170322T124500 DTEND;TZID=Europe/Brussels:20170322T144500 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:2gwr@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170329T083000 DTEND;TZID=Europe/Brussels:20170329T103000 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:qj14@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170329T104500 DTEND;TZID=Europe/Brussels:20170329T114500 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:xy6v@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170329T124500 DTEND;TZID=Europe/Brussels:20170329T144500 SUMMARY:Computernetwerken LOCATION:GKG.B.1.17 laptopklas DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\ , 34\, 40\, 41 END:VEVENT BEGIN:VEVENT UID:0g4z@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170228T144500 DTEND;TZID=Europe/Brussels:20170228T154500 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:d5fp@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170228T160000 DTEND;TZID=Europe/Brussels:20170228T170000 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:b2jn@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170307T144500 DTEND;TZID=Europe/Brussels:20170307T154500 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:5398@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170307T160000 DTEND;TZID=Europe/Brussels:20170307T170000 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:2pgv@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170314T144500 DTEND;TZID=Europe/Brussels:20170314T154500 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:xkkt@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170314T160000 DTEND;TZID=Europe/Brussels:20170314T170000 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:e1ea@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170321T144500 DTEND;TZID=Europe/Brussels:20170321T154500 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:pl28@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170321T160000 DTEND;TZID=Europe/Brussels:20170321T170000 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:as0q@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170328T144500 DTEND;TZID=Europe/Brussels:20170328T154500 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:3l5z@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170328T160000 DTEND;TZID=Europe/Brussels:20170328T170000 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:gf1h@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170228T170000 DTEND;TZID=Europe/Brussels:20170228T180000 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:rd3p@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170314T170000 DTEND;TZID=Europe/Brussels:20170314T180000 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:n054@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170328T170000 DTEND;TZID=Europe/Brussels:20170328T180000 SUMMARY:IT-beveiliging LOCATION:GKG.A.1.01 DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1. 01\nCursuscode E630043\nGroepen: 34\, 41 END:VEVENT BEGIN:VEVENT UID:i3jh@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170227T134500 DTEND;TZID=Europe/Brussels:20170227T154500 SUMMARY:Fysica LOCATION:GKG.B.0.001 Aula Minor DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001  Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\ , 19\, 41\, 47 END:VEVENT BEGIN:VEVENT UID:4nyc@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170227T160000 DTEND;TZID=Europe/Brussels:20170227T170000 SUMMARY:Fysica LOCATION:GKG.B.0.001 Aula Minor DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001  Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\ , 19\, 41\, 47 END:VEVENT BEGIN:VEVENT UID:fwfz@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170306T134500 DTEND;TZID=Europe/Brussels:20170306T154500 SUMMARY:Fysica LOCATION:GKG.B.0.001 Aula Minor DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001  Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\ , 19\, 41\, 47 END:VEVENT BEGIN:VEVENT UID:ee41@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170306T160000 DTEND;TZID=Europe/Brussels:20170306T170000 SUMMARY:Fysica LOCATION:GKG.B.0.001 Aula Minor DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001  Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\ , 19\, 41\, 47 END:VEVENT BEGIN:VEVENT UID:tyz8@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170313T134500 DTEND;TZID=Europe/Brussels:20170313T154500 SUMMARY:Fysica LOCATION:GKG.B.0.001 Aula Minor DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001  Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\ , 19\, 41\, 47 END:VEVENT BEGIN:VEVENT UID:9cel@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170313T160000 DTEND;TZID=Europe/Brussels:20170313T170000 SUMMARY:Fysica LOCATION:GKG.B.0.001 Aula Minor DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001  Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\ , 19\, 41\, 47 END:VEVENT BEGIN:VEVENT UID:is67@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170320T134500 DTEND;TZID=Europe/Brussels:20170320T154500 SUMMARY:Fysica LOCATION:GKG.B.0.001 Aula Minor DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001  Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\ , 19\, 41\, 47 END:VEVENT BEGIN:VEVENT UID:1jr0@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170320T160000 DTEND;TZID=Europe/Brussels:20170320T170000 SUMMARY:Fysica LOCATION:GKG.B.0.001 Aula Minor DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001  Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\ , 19\, 41\, 47 END:VEVENT BEGIN:VEVENT UID:mosa@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170327T134500 DTEND;TZID=Europe/Brussels:20170327T154500 SUMMARY:Fysica LOCATION:GKG.B.0.001 Aula Minor DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001  Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\ , 19\, 41\, 47 END:VEVENT BEGIN:VEVENT UID:dl0h@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170327T160000 DTEND;TZID=Europe/Brussels:20170327T170000 SUMMARY:Fysica LOCATION:GKG.B.0.001 Aula Minor DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001  Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\ , 19\, 41\, 47 END:VEVENT BEGIN:VEVENT UID:gidz@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170303T124500 DTEND;TZID=Europe/Brussels:20170303T144500 SUMMARY:Fysica LOCATION:GKG.B.1.14 vermogenelektronica DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47 END:VEVENT BEGIN:VEVENT UID:8nhq@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170310T124500 DTEND;TZID=Europe/Brussels:20170310T144500 SUMMARY:Fysica LOCATION:GKG.B.1.14 vermogenelektronica DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47 END:VEVENT BEGIN:VEVENT UID:iheh@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170317T124500 DTEND;TZID=Europe/Brussels:20170317T144500 SUMMARY:Fysica LOCATION:GKG.B.1.14 vermogenelektronica DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47 END:VEVENT BEGIN:VEVENT UID:pm1e@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170331T124500 DTEND;TZID=Europe/Brussels:20170331T144500 SUMMARY:Fysica LOCATION:GKG.B.1.14 vermogenelektronica DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47 END:VEVENT BEGIN:VEVENT UID:mx1d@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170227T083000 DTEND;TZID=Europe/Brussels:20170227T103000 SUMMARY:Software Engineering LOCATION:GKG.B.1.18 DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34 END:VEVENT BEGIN:VEVENT UID:63kl@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170227T104500 DTEND;TZID=Europe/Brussels:20170227T114500 SUMMARY:Software Engineering LOCATION:GKG.B.1.18 DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34 END:VEVENT BEGIN:VEVENT UID:rhlg@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170306T083000 DTEND;TZID=Europe/Brussels:20170306T103000 SUMMARY:Software Engineering LOCATION:GKG.B.1.18 DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34 END:VEVENT BEGIN:VEVENT UID:d2gi@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170306T104500 DTEND;TZID=Europe/Brussels:20170306T114500 SUMMARY:Software Engineering LOCATION:GKG.B.1.18 DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34 END:VEVENT BEGIN:VEVENT UID:b65t@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170313T083000 DTEND;TZID=Europe/Brussels:20170313T103000 SUMMARY:Software Engineering LOCATION:GKG.B.1.18 DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34 END:VEVENT BEGIN:VEVENT UID:ur5g@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170313T104500 DTEND;TZID=Europe/Brussels:20170313T114500 SUMMARY:Software Engineering LOCATION:GKG.B.1.18 DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34 END:VEVENT BEGIN:VEVENT UID:4l55@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170320T083000 DTEND;TZID=Europe/Brussels:20170320T103000 SUMMARY:Software Engineering LOCATION:GKG.B.1.18 DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34 END:VEVENT BEGIN:VEVENT UID:aa1n@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170320T104500 DTEND;TZID=Europe/Brussels:20170320T114500 SUMMARY:Software Engineering LOCATION:GKG.B.1.18 DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34 END:VEVENT BEGIN:VEVENT UID:gsld@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170327T083000 DTEND;TZID=Europe/Brussels:20170327T103000 SUMMARY:Software Engineering LOCATION:GKG.B.1.18 DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34 END:VEVENT BEGIN:VEVENT UID:58jb@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;TZID=Europe/Brussels:20170327T104500 DTEND;TZID=Europe/Brussels:20170327T114500 SUMMARY:Software Engineering LOCATION:GKG.B.1.18 DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34 END:VEVENT BEGIN:VEVENT UID:ehxv@thomas-HP-ZBook-15 SEQUENCE:0 DTSTAMP:20170309T141722Z DTSTART;VALUE=DATE:20170324 DTEND;VALUE=DATE:20170324 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE SUMMARY:sluitingsdag DESCRIPTION:Cursuscode sluitingsdag\n END:VEVENT END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:UGent - trtoye
+X-WR-CALNAME:UGent - trtoye
+TIMEZONE-ID:Europe/Brussels
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+UID:k05c@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170228T124500
+DTEND;TZID=Europe/Brussels:20170228T144500
+SUMMARY:Computersystemen 
+LOCATION:Hoorcollege
+DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
+  Gebouw A\, GKG.A.2.01\nLocatie: Hoorcollege\nCursuscode E630083\nGroepen:
+  34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:4kdh@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170307T124500
+DTEND;TZID=Europe/Brussels:20170307T144500
+SUMMARY:Computersystemen 
+LOCATION:Hoorcollege
+DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
+  Gebouw A\, GKG.A.2.01\nLocatie: Hoorcollege\nCursuscode E630083\nGroepen:
+  34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:c298@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170314T124500
+DTEND;TZID=Europe/Brussels:20170314T144500
+SUMMARY:Computersystemen 
+LOCATION:Hoorcollege
+DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
+  Gebouw A\, GKG.A.2.01\nLocatie: Hoorcollege\nCursuscode E630083\nGroepen:
+  34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:ytah@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170321T124500
+DTEND;TZID=Europe/Brussels:20170321T144500
+SUMMARY:Computersystemen 
+LOCATION:Hoorcollege
+DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
+  Gebouw A\, GKG.A.2.01\nLocatie: Hoorcollege\nCursuscode E630083\nGroepen:
+  34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:abtz@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170328T104500
+DTEND;TZID=Europe/Brussels:20170328T124500
+SUMMARY:Computersystemen 
+LOCATION:Hoorcollege
+DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
+  Gebouw A\, GKG.A.1.01\nLocatie: Hoorcollege\nCursuscode E630083\nGroepen:
+  34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:7k2l@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170328T134500
+DTEND;TZID=Europe/Brussels:20170328T144500
+SUMMARY:Computersystemen 
+LOCATION:Labo
+DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
+  Gebouw A\, GKG.A.1.01\nLocatie: Labo\nCursuscode E630083\nGroepen: 34\, 4
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:znw1@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170301T083000
+DTEND;TZID=Europe/Brussels:20170301T103000
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:w3xo@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170301T104500
+DTEND;TZID=Europe/Brussels:20170301T114500
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:vyj9@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170301T124500
+DTEND;TZID=Europe/Brussels:20170301T144500
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:kukn@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170308T083000
+DTEND;TZID=Europe/Brussels:20170308T103000
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:xdlu@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170308T104500
+DTEND;TZID=Europe/Brussels:20170308T114500
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:1r72@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170308T124500
+DTEND;TZID=Europe/Brussels:20170308T144500
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:2va6@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170315T083000
+DTEND;TZID=Europe/Brussels:20170315T103000
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:37lh@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170315T104500
+DTEND;TZID=Europe/Brussels:20170315T114500
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:q400@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170315T124500
+DTEND;TZID=Europe/Brussels:20170315T144500
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:52qx@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170322T083000
+DTEND;TZID=Europe/Brussels:20170322T103000
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:29o6@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170322T104500
+DTEND;TZID=Europe/Brussels:20170322T114500
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:x4wm@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170322T124500
+DTEND;TZID=Europe/Brussels:20170322T144500
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:9bfa@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170329T083000
+DTEND;TZID=Europe/Brussels:20170329T103000
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:c2fg@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170329T104500
+DTEND;TZID=Europe/Brussels:20170329T114500
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:3vku@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170329T124500
+DTEND;TZID=Europe/Brussels:20170329T144500
+SUMMARY:Computernetwerken
+LOCATION:GKG.B.1.17 laptopklas
+DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
+ n Hoecke\nLocatie: GKG.B.1.17 laptopklas\nCursuscode E630017\nGroepen: 33\
+ , 34\, 40\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:8a0u@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170228T144500
+DTEND;TZID=Europe/Brussels:20170228T154500
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:7fx4@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170228T160000
+DTEND;TZID=Europe/Brussels:20170228T170000
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:btv2@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170307T144500
+DTEND;TZID=Europe/Brussels:20170307T154500
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:afht@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170307T160000
+DTEND;TZID=Europe/Brussels:20170307T170000
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:7fr7@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170314T144500
+DTEND;TZID=Europe/Brussels:20170314T154500
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:3igi@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170314T160000
+DTEND;TZID=Europe/Brussels:20170314T170000
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:00hi@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170321T144500
+DTEND;TZID=Europe/Brussels:20170321T154500
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:vnyk@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170321T160000
+DTEND;TZID=Europe/Brussels:20170321T170000
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:482x@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170328T144500
+DTEND;TZID=Europe/Brussels:20170328T154500
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:xoz1@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170328T160000
+DTEND;TZID=Europe/Brussels:20170328T170000
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:13yt@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170228T170000
+DTEND;TZID=Europe/Brussels:20170228T180000
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:kyoo@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170314T170000
+DTEND;TZID=Europe/Brussels:20170314T180000
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:ll88@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170328T170000
+DTEND;TZID=Europe/Brussels:20170328T180000
+SUMMARY:IT-beveiliging
+LOCATION:GKG.A.1.01
+DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
+ 01\nCursuscode E630043\nGroepen: 34\, 41
+END:VEVENT
+BEGIN:VEVENT
+UID:hgif@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170227T134500
+DTEND;TZID=Europe/Brussels:20170227T154500
+SUMMARY:Fysica
+LOCATION:GKG.B.0.001 Aula Minor
+DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001 
+ Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:ssmp@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170227T160000
+DTEND;TZID=Europe/Brussels:20170227T170000
+SUMMARY:Fysica
+LOCATION:GKG.B.0.001 Aula Minor
+DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001 
+ Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:8o6l@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170306T134500
+DTEND;TZID=Europe/Brussels:20170306T154500
+SUMMARY:Fysica
+LOCATION:GKG.B.0.001 Aula Minor
+DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001 
+ Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:pfwr@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170306T160000
+DTEND;TZID=Europe/Brussels:20170306T170000
+SUMMARY:Fysica
+LOCATION:GKG.B.0.001 Aula Minor
+DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001 
+ Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:8ued@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170313T134500
+DTEND;TZID=Europe/Brussels:20170313T154500
+SUMMARY:Fysica
+LOCATION:GKG.B.0.001 Aula Minor
+DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001 
+ Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:1zxb@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170313T160000
+DTEND;TZID=Europe/Brussels:20170313T170000
+SUMMARY:Fysica
+LOCATION:GKG.B.0.001 Aula Minor
+DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001 
+ Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:yqza@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170320T134500
+DTEND;TZID=Europe/Brussels:20170320T154500
+SUMMARY:Fysica
+LOCATION:GKG.B.0.001 Aula Minor
+DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001 
+ Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:ajy1@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170320T160000
+DTEND;TZID=Europe/Brussels:20170320T170000
+SUMMARY:Fysica
+LOCATION:GKG.B.0.001 Aula Minor
+DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001 
+ Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:1fkm@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170327T134500
+DTEND;TZID=Europe/Brussels:20170327T154500
+SUMMARY:Fysica
+LOCATION:GKG.B.0.001 Aula Minor
+DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001 
+ Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:nphi@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170327T160000
+DTEND;TZID=Europe/Brussels:20170327T170000
+SUMMARY:Fysica
+LOCATION:GKG.B.0.001 Aula Minor
+DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001 
+ Aula Minor\nCursuscode E610016\nGroepen: 11\, 13\, 14\, 15\, 16\, 17\, 18\
+ , 19\, 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:uvm4@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170303T124500
+DTEND;TZID=Europe/Brussels:20170303T144500
+SUMMARY:Fysica
+LOCATION:GKG.B.1.14 vermogenelektronica
+DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver
+ mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:11f2@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170310T124500
+DTEND;TZID=Europe/Brussels:20170310T144500
+SUMMARY:Fysica
+LOCATION:GKG.B.1.14 vermogenelektronica
+DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver
+ mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:uet0@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170317T124500
+DTEND;TZID=Europe/Brussels:20170317T144500
+SUMMARY:Fysica
+LOCATION:GKG.B.1.14 vermogenelektronica
+DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver
+ mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:solf@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170331T124500
+DTEND;TZID=Europe/Brussels:20170331T144500
+SUMMARY:Fysica
+LOCATION:GKG.B.1.14 vermogenelektronica
+DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver
+ mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47
+END:VEVENT
+BEGIN:VEVENT
+UID:zug5@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170227T083000
+DTEND;TZID=Europe/Brussels:20170227T103000
+SUMMARY:Software Engineering
+LOCATION:GKG.B.1.18
+DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
+  Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
+END:VEVENT
+BEGIN:VEVENT
+UID:d8ng@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170227T104500
+DTEND;TZID=Europe/Brussels:20170227T114500
+SUMMARY:Software Engineering
+LOCATION:GKG.B.1.18
+DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
+  Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
+END:VEVENT
+BEGIN:VEVENT
+UID:5ao1@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170306T083000
+DTEND;TZID=Europe/Brussels:20170306T103000
+SUMMARY:Software Engineering
+LOCATION:GKG.B.1.18
+DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
+  Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
+END:VEVENT
+BEGIN:VEVENT
+UID:sbme@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170306T104500
+DTEND;TZID=Europe/Brussels:20170306T114500
+SUMMARY:Software Engineering
+LOCATION:GKG.B.1.18
+DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
+  Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
+END:VEVENT
+BEGIN:VEVENT
+UID:xmr5@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170313T083000
+DTEND;TZID=Europe/Brussels:20170313T103000
+SUMMARY:Software Engineering
+LOCATION:GKG.B.1.18
+DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
+  Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
+END:VEVENT
+BEGIN:VEVENT
+UID:szm3@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170313T104500
+DTEND;TZID=Europe/Brussels:20170313T114500
+SUMMARY:Software Engineering
+LOCATION:GKG.B.1.18
+DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
+  Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
+END:VEVENT
+BEGIN:VEVENT
+UID:r5pa@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170320T083000
+DTEND;TZID=Europe/Brussels:20170320T103000
+SUMMARY:Software Engineering
+LOCATION:GKG.B.1.18
+DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
+  Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
+END:VEVENT
+BEGIN:VEVENT
+UID:qgqv@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170320T104500
+DTEND;TZID=Europe/Brussels:20170320T114500
+SUMMARY:Software Engineering
+LOCATION:GKG.B.1.18
+DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
+  Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
+END:VEVENT
+BEGIN:VEVENT
+UID:d33n@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170327T083000
+DTEND;TZID=Europe/Brussels:20170327T103000
+SUMMARY:Software Engineering
+LOCATION:GKG.B.1.18
+DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
+  Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
+END:VEVENT
+BEGIN:VEVENT
+UID:671r@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;TZID=Europe/Brussels:20170327T104500
+DTEND;TZID=Europe/Brussels:20170327T114500
+SUMMARY:Software Engineering
+LOCATION:GKG.B.1.18
+DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
+  Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
+END:VEVENT
+BEGIN:VEVENT
+UID:0sv8@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T142828Z
+DTSTART;VALUE=DATE:20170324
+DTEND;VALUE=DATE:20170324
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
+SUMMARY:sluitingsdag
+DESCRIPTION:Cursuscode sluitingsdag\n
+END:VEVENT
+END:VCALENDAR
