@@ -11,8 +11,11 @@ git stash
 # Switch to gh-pages branch
 git checkout gh-pages
 
+# Remove existing calendar file
+rm calendar-${USERNAME}.ics
+
 # Pop file back
-git stash pop
+git stash apply
 
 # Add file
 git add calendar-${USERNAME}.ics
