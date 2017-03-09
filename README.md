@@ -20,6 +20,8 @@ UGENT_PASSOWRD=hunter2
 UGENT_GROUP=41
 ```
 
+I also include a script, `run.sh`, that I use. It will generate the iCal file and then push it to Github pages (on the `gh-pages` branch), so I can add the Github pages link to my Google calendar.
+
 ## Requirements
 
 Make sure to use Node.js 7+. This project makes use of async/await.
