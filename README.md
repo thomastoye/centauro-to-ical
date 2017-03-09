@@ -4,7 +4,7 @@ This project turns the UGent Centauro calendar into an `.ics` file. Born out of 
 
 ## Usage
 
-First install dependencies using `npm install`. Create a directory called `output` then run the following:
+First install dependencies using `npm install`. Then run the following:
 
 ```bash
 UGENT_USERNAME=namehere UGENT_PASSOWRD=hunter2 UGENT_GROUP=41 node main.js

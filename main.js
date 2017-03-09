@@ -69,12 +69,12 @@ const wait = (time) => new Promise(resolve => {
       }
     });
 
-    await page.evaluate(function() {
+    await page.evaluate(function(group) {
       // input changes id
       const input = Array.prototype.slice.call(document.getElementsByTagName('input'), 0).filter(function(x) { return x.name == 'tabs:panel:kalenderBekijkenPanel:formPanel:fieldsWrapper:repeatingView:groep:value' })[0];
-      input.value = '41'; // group number
+      input.value = group; // group number
       input.dispatchEvent(new Event('change'));
-    });
+    }, group);
 
     await wait(2000);
 
@@ -156,11 +156,7 @@ const wait = (time) => new Promise(resolve => {
 
     console.log(cal.toString());
 
-    if (!fs.existsSync('output')){
-      fs.mkdirSync('output');
-    }
-
-    cal.saveSync('output/calendar-' + username + '.ics');
+    cal.saveSync('calendar-' + username + '.ics');
 
     await instance.exit();
 }());
