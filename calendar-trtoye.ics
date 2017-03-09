@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
@@ -689,6 +690,8 @@ END:VEVENT
 END:VCALENDAR
 
 =======
+=======
+>>>>>>> Stashed changes
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
@@ -697,9 +700,15 @@ X-WR-CALNAME:UGent - trtoye
 TIMEZONE-ID:Europe/Brussels
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:jd71@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:c7os@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170228T124500
 DTEND;TZID=Europe/Brussels:20170228T144500
 SUMMARY:Computersystemen 
@@ -709,9 +718,15 @@ DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
   34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:awfe@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:1wvx@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170307T124500
 DTEND;TZID=Europe/Brussels:20170307T144500
 SUMMARY:Computersystemen 
@@ -721,9 +736,15 @@ DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
   34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:zhfk@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:igon@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170314T124500
 DTEND;TZID=Europe/Brussels:20170314T144500
 SUMMARY:Computersystemen 
@@ -733,9 +754,15 @@ DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
   34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:kfyo@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:pr2t@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170321T124500
 DTEND;TZID=Europe/Brussels:20170321T144500
 SUMMARY:Computersystemen 
@@ -745,9 +772,15 @@ DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
   34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:ebtf@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:bsu0@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170328T104500
 DTEND;TZID=Europe/Brussels:20170328T124500
 SUMMARY:Computersystemen 
@@ -757,9 +790,15 @@ DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
   34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:lhb7@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:x5g5@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170328T134500
 DTEND;TZID=Europe/Brussels:20170328T144500
 SUMMARY:Computersystemen 
@@ -769,9 +808,15 @@ DESCRIPTION:Vak: Computersystemen \nGegeven door Campus Kortrijk\, 44.01 -
  1
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:jpt2@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:70om@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170301T083000
 DTEND;TZID=Europe/Brussels:20170301T103000
 SUMMARY:Computernetwerken
@@ -781,9 +826,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:lx21@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:i3k3@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170301T104500
 DTEND;TZID=Europe/Brussels:20170301T114500
 SUMMARY:Computernetwerken
@@ -793,9 +844,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:kcrj@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:mkkq@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170301T124500
 DTEND;TZID=Europe/Brussels:20170301T144500
 SUMMARY:Computernetwerken
@@ -805,9 +862,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:zrqj@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:hk87@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170308T083000
 DTEND;TZID=Europe/Brussels:20170308T103000
 SUMMARY:Computernetwerken
@@ -817,9 +880,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:3ce7@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:ks24@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170308T104500
 DTEND;TZID=Europe/Brussels:20170308T114500
 SUMMARY:Computernetwerken
@@ -829,9 +898,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:7plj@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:jbqd@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170308T124500
 DTEND;TZID=Europe/Brussels:20170308T144500
 SUMMARY:Computernetwerken
@@ -841,9 +916,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:crkd@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:8ryd@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170315T083000
 DTEND;TZID=Europe/Brussels:20170315T103000
 SUMMARY:Computernetwerken
@@ -853,9 +934,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:hco1@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:roru@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170315T104500
 DTEND;TZID=Europe/Brussels:20170315T114500
 SUMMARY:Computernetwerken
@@ -865,9 +952,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:8vvl@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:fkqm@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170315T124500
 DTEND;TZID=Europe/Brussels:20170315T144500
 SUMMARY:Computernetwerken
@@ -877,9 +970,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:ene6@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:7nnb@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170322T083000
 DTEND;TZID=Europe/Brussels:20170322T103000
 SUMMARY:Computernetwerken
@@ -889,9 +988,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:tpom@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:tgbx@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170322T104500
 DTEND;TZID=Europe/Brussels:20170322T114500
 SUMMARY:Computernetwerken
@@ -901,9 +1006,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:dhi9@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:yme2@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170322T124500
 DTEND;TZID=Europe/Brussels:20170322T144500
 SUMMARY:Computernetwerken
@@ -913,9 +1024,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:e4ws@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:adwl@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170329T083000
 DTEND;TZID=Europe/Brussels:20170329T103000
 SUMMARY:Computernetwerken
@@ -925,9 +1042,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:dsld@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:dw7l@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170329T104500
 DTEND;TZID=Europe/Brussels:20170329T114500
 SUMMARY:Computernetwerken
@@ -937,9 +1060,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:5c0e@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:o10v@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170329T124500
 DTEND;TZID=Europe/Brussels:20170329T144500
 SUMMARY:Computernetwerken
@@ -949,9 +1078,15 @@ DESCRIPTION:Vak: Computernetwerken\nGegeven door Andy Van Maele\, Sofie Va
  , 34\, 40\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:o9lm@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:ipab@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170228T144500
 DTEND;TZID=Europe/Brussels:20170228T154500
 SUMMARY:IT-beveiliging
@@ -960,9 +1095,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:g8uo@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:lp3j@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170228T160000
 DTEND;TZID=Europe/Brussels:20170228T170000
 SUMMARY:IT-beveiliging
@@ -971,9 +1112,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:gfvg@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:i4cg@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170307T144500
 DTEND;TZID=Europe/Brussels:20170307T154500
 SUMMARY:IT-beveiliging
@@ -982,9 +1129,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:5oib@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:5bou@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170307T160000
 DTEND;TZID=Europe/Brussels:20170307T170000
 SUMMARY:IT-beveiliging
@@ -993,9 +1146,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:ycc0@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:oa6x@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170314T144500
 DTEND;TZID=Europe/Brussels:20170314T154500
 SUMMARY:IT-beveiliging
@@ -1004,9 +1163,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:is7z@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:8jhk@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170314T160000
 DTEND;TZID=Europe/Brussels:20170314T170000
 SUMMARY:IT-beveiliging
@@ -1015,9 +1180,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:mt7z@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:qpb3@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170321T144500
 DTEND;TZID=Europe/Brussels:20170321T154500
 SUMMARY:IT-beveiliging
@@ -1026,9 +1197,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:9gc8@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:cjzk@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170321T160000
 DTEND;TZID=Europe/Brussels:20170321T170000
 SUMMARY:IT-beveiliging
@@ -1037,9 +1214,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:76gl@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:zja4@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170328T144500
 DTEND;TZID=Europe/Brussels:20170328T154500
 SUMMARY:IT-beveiliging
@@ -1048,9 +1231,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:xbvj@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:hmq1@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170328T160000
 DTEND;TZID=Europe/Brussels:20170328T170000
 SUMMARY:IT-beveiliging
@@ -1059,9 +1248,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:uu53@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:f7ay@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170228T170000
 DTEND;TZID=Europe/Brussels:20170228T180000
 SUMMARY:IT-beveiliging
@@ -1070,9 +1265,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:qfdc@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:6cly@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170314T170000
 DTEND;TZID=Europe/Brussels:20170314T180000
 SUMMARY:IT-beveiliging
@@ -1081,9 +1282,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:owxi@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:8yoq@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170328T170000
 DTEND;TZID=Europe/Brussels:20170328T180000
 SUMMARY:IT-beveiliging
@@ -1092,9 +1299,15 @@ DESCRIPTION:Vak: IT-beveiliging\nGegeven door Jan Devos\nLocatie: GKG.A.1.
  01\nCursuscode E630043\nGroepen: 34\, 41
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:dzjf@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:5dp5@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170227T134500
 DTEND;TZID=Europe/Brussels:20170227T154500
 SUMMARY:Fysica
@@ -1104,9 +1317,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001
  , 19\, 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:9g44@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:4p1b@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170227T160000
 DTEND;TZID=Europe/Brussels:20170227T170000
 SUMMARY:Fysica
@@ -1116,9 +1335,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001
  , 19\, 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:sgrn@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:02mu@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170306T134500
 DTEND;TZID=Europe/Brussels:20170306T154500
 SUMMARY:Fysica
@@ -1128,9 +1353,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001
  , 19\, 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:odq2@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:ydwu@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170306T160000
 DTEND;TZID=Europe/Brussels:20170306T170000
 SUMMARY:Fysica
@@ -1140,9 +1371,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001
  , 19\, 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:w5on@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:qyfb@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170313T134500
 DTEND;TZID=Europe/Brussels:20170313T154500
 SUMMARY:Fysica
@@ -1152,9 +1389,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001
  , 19\, 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:sput@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:e1kh@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170313T160000
 DTEND;TZID=Europe/Brussels:20170313T170000
 SUMMARY:Fysica
@@ -1164,9 +1407,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001
  , 19\, 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:au1e@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:clab@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170320T134500
 DTEND;TZID=Europe/Brussels:20170320T154500
 SUMMARY:Fysica
@@ -1176,9 +1425,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001
  , 19\, 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:vgsd@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:fndq@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170320T160000
 DTEND;TZID=Europe/Brussels:20170320T170000
 SUMMARY:Fysica
@@ -1188,9 +1443,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001
  , 19\, 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:38n2@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:ia63@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170327T134500
 DTEND;TZID=Europe/Brussels:20170327T154500
 SUMMARY:Fysica
@@ -1200,9 +1461,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001
  , 19\, 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:oasi@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:67pb@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170327T160000
 DTEND;TZID=Europe/Brussels:20170327T170000
 SUMMARY:Fysica
@@ -1212,9 +1479,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Michael Monte\nLocatie: GKG.B.0.001
  , 19\, 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:v8zi@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:8gfn@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170303T124500
 DTEND;TZID=Europe/Brussels:20170303T144500
 SUMMARY:Fysica
@@ -1223,9 +1496,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver
  mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:jo69@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:bt25@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170310T124500
 DTEND;TZID=Europe/Brussels:20170310T144500
 SUMMARY:Fysica
@@ -1234,9 +1513,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver
  mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:8jsd@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:3kfk@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170317T124500
 DTEND;TZID=Europe/Brussels:20170317T144500
 SUMMARY:Fysica
@@ -1245,9 +1530,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver
  mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:1l4a@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:116e@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170331T124500
 DTEND;TZID=Europe/Brussels:20170331T144500
 SUMMARY:Fysica
@@ -1256,9 +1547,15 @@ DESCRIPTION:Vak: Fysica\nGegeven door Ria Callens\nLocatie: GKG.B.1.14 ver
  mogenelektronica\nCursuscode E610016\nGroepen: 41\, 47
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:4w9k@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:n884@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170227T083000
 DTEND;TZID=Europe/Brussels:20170227T103000
 SUMMARY:Software Engineering
@@ -1267,9 +1564,15 @@ DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
   Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:k9id@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:fv4k@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170227T104500
 DTEND;TZID=Europe/Brussels:20170227T114500
 SUMMARY:Software Engineering
@@ -1278,9 +1581,15 @@ DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
   Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:fq8i@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:z6k7@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170306T083000
 DTEND;TZID=Europe/Brussels:20170306T103000
 SUMMARY:Software Engineering
@@ -1289,9 +1598,15 @@ DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
   Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:twrb@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:h08z@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170306T104500
 DTEND;TZID=Europe/Brussels:20170306T114500
 SUMMARY:Software Engineering
@@ -1300,9 +1615,15 @@ DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
   Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:czsi@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:hd7y@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170313T083000
 DTEND;TZID=Europe/Brussels:20170313T103000
 SUMMARY:Software Engineering
@@ -1311,9 +1632,15 @@ DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
   Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:dgxn@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:2lma@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170313T104500
 DTEND;TZID=Europe/Brussels:20170313T114500
 SUMMARY:Software Engineering
@@ -1322,9 +1649,15 @@ DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
   Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:hf4i@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:nom4@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170320T083000
 DTEND;TZID=Europe/Brussels:20170320T103000
 SUMMARY:Software Engineering
@@ -1333,9 +1666,15 @@ DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
   Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:7dl2@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:oi5x@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170320T104500
 DTEND;TZID=Europe/Brussels:20170320T114500
 SUMMARY:Software Engineering
@@ -1344,9 +1683,15 @@ DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
   Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:jak2@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:8k59@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170327T083000
 DTEND;TZID=Europe/Brussels:20170327T103000
 SUMMARY:Software Engineering
@@ -1355,9 +1700,15 @@ DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
   Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:51o5@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:ljcf@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;TZID=Europe/Brussels:20170327T104500
 DTEND;TZID=Europe/Brussels:20170327T114500
 SUMMARY:Software Engineering
@@ -1366,9 +1717,15 @@ DESCRIPTION:Vak: Software Engineering\nGegeven door Bruno Volckaert\, Piet
   Demeester\nLocatie: GKG.B.1.18\nCursuscode E690005\nGroepen: 41\, 34
 END:VEVENT
 BEGIN:VEVENT
+<<<<<<< Updated upstream
 UID:h863@thomas-HP-ZBook-15
 SEQUENCE:0
 DTSTAMP:20170309T140203Z
+=======
+UID:sar4@thomas-HP-ZBook-15
+SEQUENCE:0
+DTSTAMP:20170309T140341Z
+>>>>>>> Stashed changes
 DTSTART;VALUE=DATE:20170324
 DTEND;VALUE=DATE:20170324
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -1376,5 +1733,9 @@ X-MICROSOFT-MSNCALENDAR-ALLDAYEVENT:TRUE
 SUMMARY:sluitingsdag
 DESCRIPTION:Cursuscode sluitingsdag\n
 END:VEVENT
+<<<<<<< Updated upstream
+END:VCALENDAR
+>>>>>>> Stashed changes
+=======
 END:VCALENDAR
 >>>>>>> Stashed changes
