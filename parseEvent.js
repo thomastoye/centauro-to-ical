@@ -20,7 +20,7 @@ module.exports = (obj) => {
     result.campusWide = true;
   } else {
     // this is not pretty, but since it's not in a tag, we don't really have a choice
-    result.groups = obj.description.match(/groep: [0-9,]*/)[0].split(' ')[1].split(',');
+    result.groups = obj.description.match(/groep: [\-0-9,]*/)[0].split(' ')[1].split(',');
 
     const split = obj.description.split('<br/>');
     result.location = split[split.length - 2];
