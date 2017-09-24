@@ -16,7 +16,7 @@ You can also put the variables in a `.env` file:
 
 ```
 UGENT_USERNAME=namehere
-UGENT_PASSOWRD=hunter2
+UGENT_PASSWORD=hunter2
 UGENT_GROUP=41
 ```
 
